@@ -241,9 +241,14 @@ FUENTES DE POTENCIA
 
 # 5. Conclusiones
 
-
+*	Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso correcto de la ley de ohm que brindan ayuda en los cálculos de voltajes, corrientes y resistencias, además gracias a la potencia y energía se pudo calcular la potencia con la que se realiza un trabajo. 
+*	La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
+*	La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas como son las de la ley de ohm y la de la potencia, para aplicar de manera adecuada según sea necesario.
 
 # 6. Bibliografía
 * Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
 * Oriol P. (13 de septiembre de 2021). ¿Qué es la ley de Ohm? Definición, fórmula y ejemplo. Solar-energía. https://solar-energia.net/electricidad/leyes/ley-de-ohm.
-* Rúbrica
+
+Rúbrica
+
+![image](https://user-images.githubusercontent.com/105715717/170418909-d8eff96c-41dd-4a22-a6fe-936204fde07a.png)
